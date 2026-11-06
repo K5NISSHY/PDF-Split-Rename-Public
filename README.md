@@ -21,8 +21,8 @@ ABC123_005.pdf
 - `pdf_splitter.py`: 分割処理と画面
 - `起動.bat`: ダブルクリックで起動
 - `README_使い方.txt`: 日本語の簡易説明
-- `samples/サンプル.xlsx`: ファイル名の例を入れたExcelブック
-- `samples/サンプル.pdf`: 動作確認用の5ページPDF
+- `サンプル.xlsx`: ファイル名の例を入れたExcelブック
+- `サンプル.pdf`: 動作確認用の5ページPDF
 
 ## 動作環境
 
